@@ -15,6 +15,7 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 
 ## Statistics
 [![MoonWitch's github stats](https://github-readme-stats.vercel.app/api?username=moonwitch&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonwitch&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaymoonwitch&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
