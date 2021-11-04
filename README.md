@@ -19,9 +19,7 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 [<img align="left" alt="kaymoonwitch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kelly.crabbe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kaymoonwitch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [<img align="left" alt="kaymoonwitch | WhatsApp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
-![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 [<img align="left" alt="gmail | Instagram" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 
 <br />
@@ -42,8 +40,11 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+  ![GithubActions](https://img.shields.io/badge/githubactions-000000?style=flat-square&logo=githubactions&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 - 💻 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/macos-grey?style=flat-square&logo=macos&logoColor=white)
   ![ArchLinux](https://img.shields.io/badge/ArchLinux-blue?style=flat-square&logo=archlinux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white)
 
