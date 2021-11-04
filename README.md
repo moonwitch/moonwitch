@@ -21,6 +21,7 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 [<img align="left" alt="kaymoonwitch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [<img align="left" alt="kaymoonwitch | WhatsApp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
+![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 [<img align="left" alt="gmail | Instagram" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 
 <br />
@@ -53,3 +54,4 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 [instagram]: https://instagram.com/kaymoonwitch
 [linkedin]: https://linkedin.com/in/kelly.crabbe
 [whatsapp]: https://wa.me/32479695560
+[gmail]: mailto:kelly.crabbe@gmail.com
