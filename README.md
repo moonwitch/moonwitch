@@ -7,9 +7,9 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 - 😄 Pronouns: She/Her/Hers 
 
 - 🔭 I’m currently working :
-  - Combining Powershell, Go and Quasar
-  - Creating a Gruvbox theme for i3
-- 🌱 I’m currently learning Ruby and JavaScript (again)
+  - Combining Powershell, Go, HTMX and Quasar
+  - Creating a Gruvbox theme for Hyprland
+- 🌱 I’m currently learning Go and JavaScript (again)
 - 💬 Ask me about my [dotfiles](https://github.com/moonwitch/dotties), I love a good talk on Linux and i3
 
 ### Connect with me 📫
@@ -51,8 +51,6 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 
 [website]: https://kellyc.dev
 [coffee]: https://kellyand.coffee
-[twitter]: https://twitter.com/kaymoonwitch
 [instagram]: https://instagram.com/kaymoonwitch
 [linkedin]: https://linkedin.com/in/kelly.crabbe
-[whatsapp]: https://wa.me/32479695560
 [gmail]: mailto:kelly.crabbe@gmail.com
