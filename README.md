@@ -16,10 +16,8 @@ I'm Kelly Crabbé AKA MoonWitch. I've been part of various online communities fo
 
 [<img align="left" alt="kellyc.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kellyand.coffee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][coffee]
-[<img align="left" alt="kaymoonwitch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kelly.crabbe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kaymoonwitch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="kaymoonwitch | WhatsApp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="gmail | Instagram" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 
 <br />
